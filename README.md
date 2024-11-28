@@ -2,10 +2,11 @@
 Small logic game for Homelab-3
 
 ## Example levels: 
-![alt text](https://github.com/ebux/Gravity-boy/res/gravity_boy_level3.gif "Level 3")
-![alt text](https://github.com/ebux/Gravity-boy/res/gravity_boy_level4.gif "Level 4")
+![Level 3](/res/gravity_boy_level3.gif)
+![Level 4](/res/gravity_boy_level4.gif)
 
 ## Download:
-[HTP file](https://github.com/ebux/Gravity-boy/release/gravity_boy.htp)
-[WAV file](https://github.com/ebux/Gravity-boy/release/gravity_boy.wav)
+[HTP file](/release/gravity_boy.htp)
+
+[WAV file](/release/gravity_boy.wav)
 
